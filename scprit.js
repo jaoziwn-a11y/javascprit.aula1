@@ -24,4 +24,5 @@ console.log("Idade: " + idade)
 console.log("Altura: " + altura)
 console.log("É humano? " + ehHumano)
 
-console.log(`Nome ${nome}`)
+console.log(`Meu nome é ${nome} e tenho ${idade} anos`);
+console.log(`Minha altura é ${altura}m`);
