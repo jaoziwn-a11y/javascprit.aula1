@@ -23,3 +23,5 @@ console.log("Sobrenome: " + sobrenome)
 console.log("Idade: " + idade)
 console.log("Altura: " + altura)
 console.log("É humano? " + ehHumano)
+
+console.log(`Nome ${nome}`)
